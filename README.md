@@ -4,9 +4,7 @@ Desenvolvedor de Software em formação, graduado em **Nutrição pela Universid
 Faço transição de carreira para a tecnologia — trazendo o raciocínio analítico e o método
 científico da saúde para cada projeto que desenvolvo.
 
-Atualmente no programa **Generation Brasil**, onde concluí o Bloco 1 com foco em
-**TypeScript e POO**, e avanço para o Bloco 2 com foco em **back-end com Node.js,
-NestJS e banco de dados relacionais**.
+Atualmente no programa Generation Brasil, concluí o Bloco 1 com TypeScript e POO e estou avançando para o Bloco 2 com foco em back-end: Node.js, NestJS e bancos de dados relacionais.
 
 ---
 
