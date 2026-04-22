@@ -1,10 +1,16 @@
 ## Olá, eu sou o Jhonatan Miranda 👋
 
-Desenvolvedor de Software em formação, graduado em **Nutrição pela Universidade Federal de Viçosa (UFV)**.
-Faço transição de carreira para a tecnologia — trazendo o raciocínio analítico e o método
-científico da saúde para cada projeto que desenvolvo.
+### 📚 Formação Atual - Generation Brasil
+Atualmente no programa **Generation Brasil**, já concluí com êxito as duas primeiras etapas intensivas:
 
-Atualmente no programa Generation Brasil, concluí o Bloco 1 com TypeScript e POO e estou avançando para o Bloco 2 com foco em back-end: Node.js, NestJS e bancos de dados relacionais.
+- **Bloco 1:** Lógica de Programação, TypeScript e Programação Orientada a Objetos (POO).
+- **Bloco 2 (Concluído):** Desenvolvimento Back-end com foco em **Node.js** e **NestJS**. Nesta etapa, aprofundei conhecimentos em:
+    - Criação e estruturação de **APIs RESTful**.
+    - Fundamentos de **Bancos de Dados Relacionais**.
+    - Arquitetura de software com módulos, serviços e injeção de dependências.
+
+### 🔭 Próximos Passos
+Sigo avançando no programa, explorando conceitos mais profundos de arquitetura back-end e me preparando para desafios full-stack.
 
 ---
 
