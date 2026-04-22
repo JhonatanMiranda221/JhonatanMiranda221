@@ -5,9 +5,9 @@ Atualmente no programa **Generation Brasil**, já concluí com êxito as duas pr
 
 - **Bloco 1:** Lógica de Programação, TypeScript e Programação Orientada a Objetos (POO).
 - **Bloco 2 (Concluído):** Desenvolvimento Back-end com foco em **Node.js** e **NestJS**. Nesta etapa, aprofundei conhecimentos em:
-    - Criação e estruturação de **APIs RESTful**.
-    - Fundamentos de **Bancos de Dados Relacionais**.
-    - Arquitetura de software com módulos, serviços e injeção de dependências.
+    - Criação e estruturação de **APIs REST**.
+    - Fundamentos de **Bancos de Dados Relacionais** (modelagem e consultas).
+    - Implementação de **Testes Unitários** para garantir qualidade de código.
 
 ### 🔭 Próximos Passos
 Sigo avançando no programa, explorando conceitos mais profundos de arquitetura back-end e me preparando para desafios full-stack.
