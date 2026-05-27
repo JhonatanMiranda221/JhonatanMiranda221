@@ -1,16 +1,22 @@
 ## Olá, eu sou o Jhonatan Miranda 👋
 
-### 📚 Formação Atual - Generation Brasil
-Atualmente no programa **Generation Brasil**, já concluí com êxito as duas primeiras etapas intensivas:
+🎓 Formação - Generation Brasil
 
-- **Bloco 1:** Lógica de Programação, TypeScript e Programação Orientada a Objetos (POO).
-- **Bloco 2 (Concluído):** Desenvolvimento Back-end com foco em **Node.js** e **NestJS**. Nesta etapa, aprofundei conhecimentos em:
-    - Criação e estruturação de **APIs REST**.
-    - Fundamentos de **Bancos de Dados Relacionais** (modelagem e consultas).
-    - Implementação de **Testes Unitários** para garantir qualidade de código.
+Concluí o bootcamp Full Stack JavaScript da Generation Brasil, uma formação intensiva focada no desenvolvimento de aplicações web modernas utilizando tecnologias de frontend e backend.
+
+Durante a jornada, desenvolvi conhecimentos em:
+
+Lógica de Programação e Programação Orientada a Objetos (POO)
+Desenvolvimento Frontend com React e TypeScript
+Desenvolvimento Backend com Node.js e NestJS
+Construção e consumo de APIs REST
+Banco de Dados Relacionais (MySQL)
+Versionamento com Git e GitHub
+Docker e documentação de APIs com Swagger
+Trabalho em equipe utilizando metodologias ágeis
 
 ### 🔭 Próximos Passos
-Sigo avançando no programa, explorando conceitos mais profundos de arquitetura back-end e me preparando para desafios full-stack.
+Atualmente sigo aprofundando meus conhecimentos em desenvolvimento full stack, arquitetura de software e boas práticas de desenvolvimento, buscando evoluir cada vez mais como desenvolvedor.
 
 ---
 
