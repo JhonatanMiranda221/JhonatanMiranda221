@@ -2,7 +2,7 @@
 
 🎓 Formação - Generation Brasil
 
-Concluí o bootcamp Full Stack JavaScript da Generation Brasil, uma formação intensiva focada no desenvolvimento de aplicações web modernas utilizando tecnologias de frontend e backend.
+Concluí o bootcamp Full Stack JavaScript da Generation Brasil (420 horas), uma formação intensiva focada no desenvolvimento de aplicações web modernas utilizando tecnologias de frontend e backend.
 
 Durante a jornada, desenvolvi conhecimentos em:
 
